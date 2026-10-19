@@ -78,7 +78,6 @@ skill set across web and application development, UI design, and end-to-end proj
 
 ## GITHUB STATS
 
-HTML
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosephDanMaliza&theme=dark&background=0d0b09&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=f5efe8&currStreakNum=f5efe8&sideNums=f5efe8&dates=10B981&border=22C55E&border_radius=20" width="70%" />
