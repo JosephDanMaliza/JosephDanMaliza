@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Operational Protocol
+### OPERATIONAL PROTOCOL
 
 ![Pixel Perfectionist](https://img.shields.io/badge/Pixel_Perfectionist-22C55E?style=flat-square&logo=figma&logoColor=white)
 ![Git Conflict Negotiator](https://img.shields.io/badge/Git_Conflict_Negotiator-10B981?style=flat-square&logo=git&logoColor=white)
@@ -21,14 +21,14 @@
 
 <br>
 
-## About Me
+## ABOUT ME
 I’m Joseph, a dreamer and a builder.
 
 I graduated with a BS in Information Technology from PUP Sto. Tomas, Batangas, specializing in front-end development, UI/UX design, and QA.
 I love creating interfaces that are visually engaging and intuitive for users. Throughout my four years of university, I developed a versatile 
 skill set across web and application development, UI design, and end-to-end project implementation. I am eager to continue growing and turn ambitious ideas into reality.
 
-## Technical Stack
+## TECHNICAL STATS
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,17 +48,18 @@ skill set across web and application development, UI design, and end-to-end proj
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="assets/RE-source-Hub.png" width="100%" />
+<img src="REsource-Hub.png" width="100%" />
 
 <sub>The CentRE REsource Hub — <a href="https://thecentre.ph/resource-hub">view live site</a></sub>
+<p><strong>The CentRE REsource Hub </strong> - A centralized platform engineered to streamline media management, event scheduling with automated invitations, and interactive location mapping for seamless public discovery.</p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="assets/Landas.png" width="100%" />
+<img src="Landas.png" width="100%" />
 
 <sub>LANDAS: 2D Mobile Game — <a href="https://landas2d.github.io/">view live site</a></sub>
-
+<p><strong>LANDAS: 2D Mobile Game</strong> -A gamified educational mobile app that transforms Philippine history into engaging mini-games, making historical learning fun, interactive, and memorable for students.</p>
 </td>
 </tr>
 </table>
@@ -75,7 +76,7 @@ skill set across web and application development, UI design, and end-to-end proj
 
 <div align="center">
 
-## Github Stats
+## GITHUB STATS
 
 HTML
 <div align="center">
